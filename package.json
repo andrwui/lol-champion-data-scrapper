@@ -1,0 +1,21 @@
+{
+  "name": "lolwikiscrapper",
+  "version": "1.0.0",
+  "description": "Data scrapper for the League of Legends's Fandom page",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
+}
