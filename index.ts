@@ -2,13 +2,13 @@ const puppeteer = require('puppeteer')
 const fs = require('fs')
 const url = 'https://leagueoflegends.fandom.com/wiki/List_of_champions'
 
-
-
-
 const scrapeChampion = async (page:any, champion:any) => {
   await page.goto(champion.url, { timeout: 0 })
 
-  const info = await page.evaluate((champ:any) => {
+  const info = await page.evaluate(() => {
+    const name: string  = document.querySelector(`.portable-infobox .pi-title span`).innerHTML
+    const description: string  = document.querySelector(`.portable-infobox .pi-item div span`).innerHTML.charAt(0).toUpperCase() +
+    document.querySelector(`.portable-infobox .pi-item div span`).innerHTML.slice(1);
 
     const scrapeSidebar = (dataSource: string): string[] | string =>{
       const items: string[] | string = []
@@ -37,46 +37,40 @@ const scrapeChampion = async (page:any, champion:any) => {
     const dmgType = scrapeSidebar("adaptivetype")
     const price = scrapeSidebar("cost")
     
-    return {release, classes, positions, resource, rangeType, dmgType, price}
+    return { name, description, release, classes, positions, resource, rangeType, dmgType, price }
   })
   await page.goBack()
 
-  return {
-    ...champion,
-    info,
-  }
+  return info
 }
 
 const main = async () => {
 
   const start = Date.now()
   const browser = await puppeteer.launch({ headless: false, timeout: 0})
-  const page = await browser.newPage()
+  const page = await browser.newPage();
   await page.goto(url, {timeout: 0})
 
   const champions = await page.evaluate(() => {
 
-    let counter = 0
     const championsElements: HTMLElement[] = Array.from(document.querySelectorAll('tr td span span a'))
-    const championsData: Object = championsElements.map((champ:any, counter) => ({
+    const championsData: Object = championsElements.map((champ:any) => ({
 
-      id: counter,
-      name: champ.innerHTML.split('<br>')[0],
-      description: champ.innerHTML.split('<br>')[1].charAt(0).toUpperCase() + champ.innerHTML.split('<br>')[1].slice(1),
       url: champ.href,
 
     }))
     
-    counter++
     return championsData
   })
 
-  const scrapedData: string[] = []
-
+  const scrapedData= []
+  let counter = 0;
   for (const champion of champions) {
     const champ = await scrapeChampion(page, champion)
-    console.log(champ)
-    scrapedData.push(champ)
+    const champWithId = { id: counter, ...champ };
+    counter++;
+    console.log(champWithId)
+    scrapedData.push(champWithId)
   }
 
   await browser.close()
