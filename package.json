@@ -4,18 +4,37 @@
   "description": "Data scrapper for the League of Legends's Fandom page",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node index.ts"
+    "dev": "node --loader ts-node/esm index.ts"
   },
-  "type": "commonjs",
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^20.4.10",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.1.6"
+    "@types/node": "^18.17.4",
+    "@types/puppeteer": "^7.0.4",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@typescript-eslint/parser": "^5.54.1",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-import-resolver-typescript": "^3.5.3",
+    "eslint-plugin-comment-length": "^0.9.2",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "prettier": "^2.8.4",
+    "sass": "^1.65.1",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
   },
   "dependencies": {
-    "puppeteer": "^20.9.0"
+    "puppeteer": "^20.9.0",
+    "ts-node": "^10.9.1"
   }
 }

@@ -1,0 +1,92 @@
+{
+    "env": {
+      "browser": true,
+      "node": true
+    },
+    "overrides": [
+      {
+        "extends": [
+          "plugin:prettier/recommended",
+          "plugin:@typescript-eslint/recommended",
+          "plugin:@typescript-eslint/recommended-requiring-type-checking"
+        ],
+        "files": [
+          "./*.ts*"
+        ],
+        "parserOptions": {
+          "project": "./tsconfig.json"
+        },
+        "rules": {
+          "import/export": 0,
+          "@typescript-eslint/no-unsafe-call": 0,
+          "curly": 0,
+          "no-shadow": 0,
+          "@typescript-eslint/no-unnecessary-condition": 0,
+          "no-plusplus": 0,
+          "indent": "off",
+          "quotes": [
+            "error",
+            "single"
+          ],
+          "semi": [
+            "error",
+            "always"
+          ],
+          "no-console": "off",
+          "no-unused-vars": "off",
+          "@typescript-eslint/restrict-plus-operands": "off",
+          "@typescript-eslint/no-unused-vars": [
+            "warn",
+            {
+              "ignoreRestSiblings": true
+            }
+          ],
+          "no-restricted-globals": [
+            "error",
+            "event"
+          ],
+          "@typescript-eslint/no-unsafe-assignment": "off",
+          "@typescript-eslint/no-unsafe-argument": "off",
+          "@typescript-eslint/no-unnecessary-type-assertion": "off",
+          "@typescript-eslint/non-nullable-type-assertion-style": "off",
+          "no-dupe-class-members": "off",
+          "@typescript-eslint/consistent-type-definitions": 0,
+          "@typescript-eslint/consistent-indexed-object-style": 0,
+          "arrow-body-style": 0,
+          "import/extensions": 0,
+          "no-param-reassign": [
+            "error",
+            {
+              "props": true,
+              "ignorePropertyModificationsFor": [
+                "state"
+              ]
+            }
+          ],
+          "max-len": 0,
+          "prettier/prettier": [
+            "error",
+            {
+              "endOfLine": "auto",
+              "singleQuote": true,
+              "trailingComma": "all",
+              "arrowParens": "avoid",
+              "printWidth": 80,
+              "tabWidth": 2
+            }
+          ],
+          "no-multiple-empty-lines": "off"
+        }
+      }
+    ],
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+      "@typescript-eslint",
+      "import"
+    ],
+    "ignorePatterns": [
+      "built",
+      "node_modules"
+    ],
+    "root": true
+  }

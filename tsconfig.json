@@ -5,12 +5,15 @@
       "es6",
       "dom"
     ],
+    "types": [
+      "node",
+      "puppeteer",
+    ],
     "outDir": "./dist/",
     "sourceMap": true,
     "noImplicitAny": true,
-    "module": "commonjs",
+    "module": "ESNext",
     "target": "es6",
     "moduleResolution": "node",
-    "jsx": "react",
   },
 }

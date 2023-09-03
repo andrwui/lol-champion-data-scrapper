@@ -1,2816 +1,2816 @@
 [
-  {
-    "id": 0,
-    "name": "Aatrox",
-    "description": "The Darkin Blade",
-    "release": "2013",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Manaless",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 1,
-    "name": "Ahri",
-    "description": "The Nine-Tailed Fox",
-    "release": "2011",
-    "classes": [
-      "Mage",
-      "Assassin"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 2,
-    "name": "Akali",
-    "description": "The Rogue Assassin",
-    "release": "2010",
-    "classes": [
-      "Assassin"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Energy",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 3,
-    "name": "Akshan",
-    "description": "The Rogue Sentinel",
-    "release": "2021",
-    "classes": [
-      "Marksman",
-      "Assassin"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 4,
-    "name": "Alistar",
-    "description": "The Minotaur",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Support"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 5,
-    "name": "Amumu",
-    "description": "The Sad Mummy",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Mage"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 6,
-    "name": "Anivia",
-    "description": "The Cryophoenix",
-    "release": "2009",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 7,
-    "name": "Annie",
-    "description": "The Dark Child",
-    "release": "2009",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 8,
-    "name": "Aphelios",
-    "description": "The Weapon of the Faithful",
-    "release": "2019",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 9,
-    "name": "Ashe",
-    "description": "The Frost Archer",
-    "release": "2009",
-    "classes": [
-      "Marksman",
-      "Support"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 10,
-    "name": "Aurelion Sol",
-    "description": "The Star Forger",
-    "release": "2016",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 11,
-    "name": "Azir",
-    "description": "The Emperor of the Sands",
-    "release": "2014",
-    "classes": [
-      "Mage",
-      "Marksman"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 12,
-    "name": "Bard",
-    "description": "The Wandering Caretaker",
-    "release": "2015",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 13,
-    "name": "Bel'Veth",
-    "description": "The Empress of the Void",
-    "release": "2022",
-    "classes": [
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Manaless",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "6300"
-  },
-  {
-    "id": 14,
-    "name": "Blitzcrank",
-    "description": "The Great Steam Golem",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 15,
-    "name": "Brand",
-    "description": "The Burning Vengeance",
-    "release": "2011",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 16,
-    "name": "Braum",
-    "description": "The Heart of the Freljord",
-    "release": "2014",
-    "classes": [
-      "Support",
-      "Tank"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 17,
-    "name": "Caitlyn",
-    "description": "The Sheriff of Piltover",
-    "release": "2011",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 18,
-    "name": "Camille",
-    "description": "The Steel Shadow",
-    "release": "2016",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 19,
-    "name": "Cassiopeia",
-    "description": "The Serpent's Embrace",
-    "release": "2010",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle",
-      "Top",
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 20,
-    "name": "Cho'Gath",
-    "description": "The Terror of the Void",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Mage"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 21,
-    "name": "Corki",
-    "description": "The Daring Bombardier",
-    "release": "2009",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 22,
-    "name": "Darius",
-    "description": "The Hand of Noxus",
-    "release": "2012",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 23,
-    "name": "Diana",
-    "description": "Scorn of the Moon",
-    "release": "2012",
-    "classes": [
-      "Fighter",
-      "Mage"
-    ],
-    "positions": [
-      "Jungle",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 24,
-    "name": "Dr. Mundo",
-    "description": "The Madman of Zaun",
-    "release": "2009",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Jungle"
-    ],
-    "resource": "Health costs",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 25,
-    "name": "Draven",
-    "description": "The Glorious Executioner",
-    "release": "2012",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 26,
-    "name": "Ekko",
-    "description": "The Boy Who Shattered Time",
-    "release": "2015",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 27,
-    "name": "Elise",
-    "description": "The Spider Queen",
-    "release": "2012",
-    "classes": [
-      "Mage",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 28,
-    "name": "Evelynn",
-    "description": "Agony's Embrace",
-    "release": "2009",
-    "classes": [
-      "Assassin",
-      "Mage"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 29,
-    "name": "Ezreal",
-    "description": "The Prodigal Explorer",
-    "release": "2010",
-    "classes": [
-      "Marksman",
-      "Mage"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 30,
-    "name": "Fiddlesticks",
-    "description": "The Ancient Fear",
-    "release": "2009",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 31,
-    "name": "Fiora",
-    "description": "The Grand Duelist",
-    "release": "2012",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 32,
-    "name": "Fizz",
-    "description": "The Tidal Trickster",
-    "release": "2011",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 33,
-    "name": "Galio",
-    "description": "The Colossus",
-    "release": "2010",
-    "classes": [
-      "Tank",
-      "Mage"
-    ],
-    "positions": [
-      "Middle",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 34,
-    "name": "Gangplank",
-    "description": "The Saltwater Scourge",
-    "release": "2009",
-    "classes": [
-      "Fighter"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 35,
-    "name": "Garen",
-    "description": "The Might of Demacia",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Manaless",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 36,
-    "name": "Gnar",
-    "description": "The Missing Link",
-    "release": "2014",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Rage",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 37,
-    "name": "Gragas",
-    "description": "The Rabble Rouser",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Mage"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 38,
-    "name": "Graves",
-    "description": "The Outlaw",
-    "release": "2011",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 39,
-    "name": "Gwen",
-    "description": "The Hallowed Seamstress",
-    "release": "2021",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 40,
-    "name": "Hecarim",
-    "description": "The Shadow of War",
-    "release": "2012",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Jungle",
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 41,
-    "name": "Heimerdinger",
-    "description": "The Revered Inventor",
-    "release": "2009",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Middle",
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 42,
-    "name": "Illaoi",
-    "description": "The Kraken Priestess",
-    "release": "2015",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 43,
-    "name": "Irelia",
-    "description": "The Blade Dancer",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 44,
-    "name": "Ivern",
-    "description": "The Green Father",
-    "release": "2016",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Jungle",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 45,
-    "name": "Janna",
-    "description": "The Storm's Fury",
-    "release": "2009",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 46,
-    "name": "Jarvan IV",
-    "description": "The Exemplar of Demacia",
-    "release": "2011",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 47,
-    "name": "Jax",
-    "description": "Grandmaster at Arms",
-    "release": "2009",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Top",
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 48,
-    "name": "Jayce",
-    "description": "The Defender of Tomorrow",
-    "release": "2012",
-    "classes": [
-      "Fighter",
-      "Marksman"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 49,
-    "name": "Jhin",
-    "description": "The Virtuoso",
-    "release": "2016",
-    "classes": [
-      "Marksman",
-      "Mage"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4444"
-  },
-  {
-    "id": 50,
-    "name": "Jinx",
-    "description": "The Loose Cannon",
-    "release": "2013",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 51,
-    "name": "K'Sante",
-    "description": "The Pride of Nazumah",
-    "release": "2022",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "6300"
-  },
-  {
-    "id": 52,
-    "name": "Kai'Sa",
-    "description": "Daughter of the Void",
-    "release": "2018",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 53,
-    "name": "Kalista",
-    "description": "The Spear of Vengeance",
-    "release": "2014",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 54,
-    "name": "Karma",
-    "description": "The Enlightened One",
-    "release": "2011",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Support",
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 55,
-    "name": "Karthus",
-    "description": "The Deathsinger",
-    "release": "2009",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 56,
-    "name": "Kassadin",
-    "description": "The Void Walker",
-    "release": "2009",
-    "classes": [
-      "Assassin",
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 57,
-    "name": "Katarina",
-    "description": "The Sinister Blade",
-    "release": "2009",
-    "classes": [
-      "Assassin",
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Manaless",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 58,
-    "name": "Kayle",
-    "description": "The Righteous",
-    "release": "2009",
-    "classes": [
-      "Fighter",
-      "Support"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 59,
-    "name": "Kayn",
-    "description": "The Shadow Reaper",
-    "release": "2017",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 60,
-    "name": "Kennen",
-    "description": "The Heart of the Tempest",
-    "release": "2010",
-    "classes": [
-      "Mage",
-      "Marksman"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Energy",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 61,
-    "name": "Kha'Zix",
-    "description": "The Voidreaver",
-    "release": "2012",
-    "classes": [
-      "Assassin"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 62,
-    "name": "Kindred",
-    "description": "The Eternal Hunters",
-    "release": "2015",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 63,
-    "name": "Kled &amp; Skaarl",
-    "description": "The Cantankerous Cavaliers",
-    "release": "2016",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Jungle"
-    ],
-    "resource": "Courage",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "6300"
-  },
-  {
-    "id": 64,
-    "name": "Kog'Maw",
-    "description": "The Mouth of the Abyss",
-    "release": "2010",
-    "classes": [
-      "Marksman",
-      "Mage"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 65,
-    "name": "LeBlanc",
-    "description": "The Deceiver",
-    "release": "2010",
-    "classes": [
-      "Assassin",
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 66,
-    "name": "Lee Sin",
-    "description": "The Blind Monk",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Energy",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 67,
-    "name": "Leona",
-    "description": "The Radiant Dawn",
-    "release": "2011",
-    "classes": [
-      "Tank",
-      "Support"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 68,
-    "name": "Lillia",
-    "description": "The Bashful Bloom",
-    "release": "2020",
-    "classes": [
-      "Fighter",
-      "Mage"
-    ],
-    "positions": [
-      "Jungle",
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 69,
-    "name": "Lissandra",
-    "description": "The Ice Witch",
-    "release": "2013",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 70,
-    "name": "Lucian",
-    "description": "The Purifier",
-    "release": "2013",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom",
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 71,
-    "name": "Lulu",
-    "description": "The Fae Sorceress",
-    "release": "2012",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 72,
-    "name": "Lux",
-    "description": "The Lady of Luminosity",
-    "release": "2010",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Middle",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 73,
-    "name": "Malphite",
-    "description": "Shard of the Monolith",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Top",
-      "Support",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 74,
-    "name": "Malzahar",
-    "description": "The Prophet of the Void",
-    "release": "2010",
-    "classes": [
-      "Mage",
-      "Assassin"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 75,
-    "name": "Maokai",
-    "description": "The Twisted Treant",
-    "release": "2011",
-    "classes": [
-      "Tank",
-      "Mage"
-    ],
-    "positions": [
-      "Top",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 76,
-    "name": "Master Yi",
-    "description": "The Wuju Bladesman",
-    "release": "2009",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 77,
-    "name": "Milio",
-    "description": "The Gentle Flame",
-    "release": "2023",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "6300"
-  },
-  {
-    "id": 78,
-    "name": "Miss Fortune",
-    "description": "The Bounty Hunter",
-    "release": "2010",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 79,
-    "name": "Mordekaiser",
-    "description": "The Iron Revenant",
-    "release": "2010",
-    "classes": [
-      "Fighter"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Shield",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 80,
-    "name": "Morgana",
-    "description": "The Fallen",
-    "release": "2009",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 81,
-    "name": "Naafiri",
-    "description": "The Hound of a Hundred Bites",
-    "release": "2023",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "7800"
-  },
-  {
-    "id": 82,
-    "name": "Nami",
-    "description": "The Tidecaller",
-    "release": "2012",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 83,
-    "name": "Nasus",
-    "description": "The Curator of the Sands",
-    "release": "2009",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 84,
-    "name": "Nautilus",
-    "description": "The Titan of the Depths",
-    "release": "2012",
-    "classes": [
-      "Tank",
-      "Support"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 85,
-    "name": "Neeko",
-    "description": "The Curious Chameleon",
-    "release": "2018",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 86,
-    "name": "Nidalee",
-    "description": "The Bestial Huntress",
-    "release": "2009",
-    "classes": [
-      "Assassin",
-      "Mage"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 87,
-    "name": "Nilah",
-    "description": "The Joy Unbound",
-    "release": "2022",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "6300"
-  },
-  {
-    "id": 88,
-    "name": "Nocturne",
-    "description": "The Eternal Nightmare",
-    "release": "2011",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle",
-      "Top",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 89,
-    "name": "Nunu &amp; Willump",
-    "description": "The Boy and His Yeti",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 90,
-    "name": "Olaf",
-    "description": "The Berserker",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Jungle",
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 91,
-    "name": "Orianna",
-    "description": "The Lady of Clockwork",
-    "release": "2011",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 92,
-    "name": "Ornn",
-    "description": "The Fire below the Mountain",
-    "release": "2017",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 93,
-    "name": "Pantheon",
-    "description": "The Unbreakable Spear",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Middle",
-      "Support",
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 94,
-    "name": "Poppy",
-    "description": "Keeper of the Hammer",
-    "release": "2010",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Top",
-      "Jungle",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 95,
-    "name": "Pyke",
-    "description": "The Bloodharbor Ripper",
-    "release": "2018",
-    "classes": [
-      "Support",
-      "Assassin"
-    ],
-    "positions": [
-      "Support",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 96,
-    "name": "Qiyana",
-    "description": "Empress of the Elements",
-    "release": "2019",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 97,
-    "name": "Quinn",
-    "description": "Demacia's Wings",
-    "release": "2013",
-    "classes": [
-      "Marksman",
-      "Assassin"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 98,
-    "name": "Rakan",
-    "description": "The Charmer",
-    "release": "2017",
-    "classes": [
-      "Support"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 99,
-    "name": "Rammus",
-    "description": "The Armordillo",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 100,
-    "name": "Rek'Sai",
-    "description": "The Void Burrower",
-    "release": "2014",
-    "classes": [
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Rage",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 101,
-    "name": "Rell",
-    "description": "The Iron Maiden",
-    "release": "2020",
-    "classes": [
-      "Tank",
-      "Support"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 102,
-    "name": "Renata Glasc",
-    "description": "The Chem-Baroness",
-    "release": "2022",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "6300"
-  },
-  {
-    "id": 103,
-    "name": "Renekton",
-    "description": "The Butcher of the Sands",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Fury",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 104,
-    "name": "Rengar",
-    "description": "The Pridestalker",
-    "release": "2012",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle",
-      "Top"
-    ],
-    "resource": "Ferocity",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 105,
-    "name": "Riven",
-    "description": "The Exile",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Manaless",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 106,
-    "name": "Rumble",
-    "description": "The Mechanized Menace",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Mage"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Heat",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 107,
-    "name": "Ryze",
-    "description": "The Rune Mage",
-    "release": "2009",
-    "classes": [
-      "Mage",
-      "Fighter"
-    ],
-    "positions": [
-      "Middle",
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 108,
-    "name": "Samira",
-    "description": "The Desert Rose",
-    "release": "2020",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 109,
-    "name": "Sejuani",
-    "description": "Fury of the North",
-    "release": "2012",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 110,
-    "name": "Senna",
-    "description": "The Redeemer",
-    "release": "2019",
-    "classes": [
-      "Marksman",
-      "Support"
-    ],
-    "positions": [
-      "Support",
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 111,
-    "name": "Seraphine",
-    "description": "The Starry-Eyed Songstress",
-    "release": "2020",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Bottom",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 112,
-    "name": "Sett",
-    "description": "The Boss",
-    "release": "2020",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Jungle",
-      "Support"
-    ],
-    "resource": "Grit",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 113,
-    "name": "Shaco",
-    "description": "The Demon Jester",
-    "release": "2009",
-    "classes": [
-      "Assassin"
-    ],
-    "positions": [
-      "Jungle",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 114,
-    "name": "Shen",
-    "description": "The Eye of Twilight",
-    "release": "2010",
-    "classes": [
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Support"
-    ],
-    "resource": "Energy",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 115,
-    "name": "Shyvana",
-    "description": "The Half-Dragon",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Fury",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 116,
-    "name": "Singed",
-    "description": "The Mad Chemist",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 117,
-    "name": "Sion",
-    "description": "The Undead Juggernaut",
-    "release": "2009",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 118,
-    "name": "Sivir",
-    "description": "The Battle Mistress",
-    "release": "2009",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 119,
-    "name": "Skarner",
-    "description": "The Crystal Vanguard",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 120,
-    "name": "Sona",
-    "description": "Maven of the Strings",
-    "release": "2010",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 121,
-    "name": "Soraka",
-    "description": "The Starchild",
-    "release": "2009",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 122,
-    "name": "Swain",
-    "description": "The Noxian Grand General",
-    "release": "2010",
-    "classes": [
-      "Mage",
-      "Fighter"
-    ],
-    "positions": [
-      "Top",
-      "Middle",
-      "Support",
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 123,
-    "name": "Sylas",
-    "description": "The Unshackled",
-    "release": "2019",
-    "classes": [
-      "Mage",
-      "Assassin"
-    ],
-    "positions": [
-      "Middle",
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 124,
-    "name": "Syndra",
-    "description": "The Dark Sovereign",
-    "release": "2012",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 125,
-    "name": "Tahm Kench",
-    "description": "The River King",
-    "release": "2015",
-    "classes": [
-      "Support",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Bottom",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 126,
-    "name": "Taliyah",
-    "description": "The Stoneweaver",
-    "release": "2016",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Jungle",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 127,
-    "name": "Talon",
-    "description": "The Blade's Shadow",
-    "release": "2011",
-    "classes": [
-      "Assassin"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 128,
-    "name": "Taric",
-    "description": "The Shield of Valoran",
-    "release": "2009",
-    "classes": [
-      "Support",
-      "Fighter"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 129,
-    "name": "Teemo",
-    "description": "The Swift Scout",
-    "release": "2009",
-    "classes": [
-      "Marksman",
-      "Assassin"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 130,
-    "name": "Thresh",
-    "description": "The Chain Warden",
-    "release": "2013",
-    "classes": [
-      "Support",
-      "Fighter"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 131,
-    "name": "Tristana",
-    "description": "The Yordle Gunner",
-    "release": "2009",
-    "classes": [
-      "Marksman",
-      "Assassin"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 132,
-    "name": "Trundle",
-    "description": "The Troll King",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 133,
-    "name": "Tryndamere",
-    "description": "The Barbarian King",
-    "release": "2009",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Fury",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 134,
-    "name": "Twisted Fate",
-    "description": "The Card Master",
-    "release": "2009",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 135,
-    "name": "Twitch",
-    "description": "The Plague Rat",
-    "release": "2009",
-    "classes": [
-      "Marksman",
-      "Assassin"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 136,
-    "name": "Udyr",
-    "description": "The Spirit Walker",
-    "release": "2009",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 137,
-    "name": "Urgot",
-    "description": "The Dreadnought",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 138,
-    "name": "Varus",
-    "description": "The Arrow of Retribution",
-    "release": "2012",
-    "classes": [
-      "Marksman",
-      "Mage"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 139,
-    "name": "Vayne",
-    "description": "The Night Hunter",
-    "release": "2011",
-    "classes": [
-      "Marksman",
-      "Assassin"
-    ],
-    "positions": [
-      "Top",
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 140,
-    "name": "Veigar",
-    "description": "The Tiny Master of Evil",
-    "release": "2009",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 141,
-    "name": "Vel'Koz",
-    "description": "The Eye of the Void",
-    "release": "2014",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3141"
-  },
-  {
-    "id": 142,
-    "name": "Vex",
-    "description": "The Gloomist",
-    "release": "2021",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 143,
-    "name": "Vi",
-    "description": "The Piltover Enforcer",
-    "release": "2012",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 144,
-    "name": "Viego",
-    "description": "The Ruined King",
-    "release": "2021",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Manaless",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 145,
-    "name": "Viktor",
-    "description": "The Machine Herald",
-    "release": "2011",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 146,
-    "name": "Vladimir",
-    "description": "The Crimson Reaper",
-    "release": "2010",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Bloodthirst",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  },
-  {
-    "id": 147,
-    "name": "Volibear",
-    "description": "The Relentless Storm",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 148,
-    "name": "Warwick",
-    "description": "The Uncaged Wrath of Zaun",
-    "release": "2009",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "450"
-  },
-  {
-    "id": 149,
-    "name": "Wukong",
-    "description": "The Monkey King",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top",
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 150,
-    "name": "Xayah",
-    "description": "The Rebel",
-    "release": "2017",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "4800"
-  },
-  {
-    "id": 151,
-    "name": "Xerath",
-    "description": "The Magus Ascendant",
-    "release": "2011",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle",
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 152,
-    "name": "Xin Zhao",
-    "description": "The Seneschal of Demacia",
-    "release": "2010",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Jungle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 153,
-    "name": "Yasuo",
-    "description": "The Unforgiven",
-    "release": "2013",
-    "classes": [
-      "Fighter",
-      "Assassin"
-    ],
-    "positions": [
-      "Top",
-      "Middle",
-      "Bottom"
-    ],
-    "resource": "Flow",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 154,
-    "name": "Yone",
-    "description": "The Unforgotten",
-    "release": "2020",
-    "classes": [
-      "Assassin",
-      "Fighter"
-    ],
-    "positions": [
-      "Top",
-      "Middle"
-    ],
-    "resource": "Manaless",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 155,
-    "name": "Yorick",
-    "description": "Shepherd of Souls",
-    "release": "2011",
-    "classes": [
-      "Fighter",
-      "Tank"
-    ],
-    "positions": [
-      "Top"
-    ],
-    "resource": "Mana",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "3150"
-  },
-  {
-    "id": 156,
-    "name": "Yuumi",
-    "description": "The Magical Cat",
-    "release": "2019",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "450"
-  },
-  {
-    "id": 157,
-    "name": "Zac",
-    "description": "The Secret Weapon",
-    "release": "2013",
-    "classes": [
-      "Tank",
-      "Fighter"
-    ],
-    "positions": [
-      "Jungle",
-      "Top",
-      "Support"
-    ],
-    "resource": "Health costs",
-    "rangeType": "Melee",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 158,
-    "name": "Zed",
-    "description": "The Master of Shadows",
-    "release": "2012",
-    "classes": [
-      "Assassin"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Energy",
-    "rangeType": "Melee",
-    "dmgType": "Physical",
-    "price": "1350"
-  },
-  {
-    "id": 159,
-    "name": "Zeri",
-    "description": "The Spark of Zaun",
-    "release": "2022",
-    "classes": [
-      "Marksman"
-    ],
-    "positions": [
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Physical",
-    "price": "6300"
-  },
-  {
-    "id": 160,
-    "name": "Ziggs",
-    "description": "The Hexplosives Expert",
-    "release": "2012",
-    "classes": [
-      "Mage"
-    ],
-    "positions": [
-      "Middle",
-      "Bottom"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 161,
-    "name": "Zilean",
-    "description": "The Chronokeeper",
-    "release": "2009",
-    "classes": [
-      "Support",
-      "Mage"
-    ],
-    "positions": [
-      "Support",
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "1350"
-  },
-  {
-    "id": 162,
-    "name": "Zoe",
-    "description": "The Aspect of Twilight",
-    "release": "2017",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Middle"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "4800"
-  },
-  {
-    "id": 163,
-    "name": "Zyra",
-    "description": "Rise of the Thorns",
-    "release": "2012",
-    "classes": [
-      "Mage",
-      "Support"
-    ],
-    "positions": [
-      "Support"
-    ],
-    "resource": "Mana",
-    "rangeType": "Ranged",
-    "dmgType": "Magic",
-    "price": "3150"
-  }
+    {
+        "id": 0,
+        "name": "Aatrox",
+        "description": "The Darkin Blade",
+        "release": "2013",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 1,
+        "name": "Ahri",
+        "description": "The Nine-Tailed Fox",
+        "release": "2011",
+        "classes": [
+            "Mage",
+            "Assassin"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 2,
+        "name": "Akali",
+        "description": "The Rogue Assassin",
+        "release": "2010",
+        "classes": [
+            "Assassin"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 3,
+        "name": "Akshan",
+        "description": "The Rogue Sentinel",
+        "release": "2021",
+        "classes": [
+            "Marksman",
+            "Assassin"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 4,
+        "name": "Alistar",
+        "description": "The Minotaur",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 5,
+        "name": "Amumu",
+        "description": "The Sad Mummy",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 6,
+        "name": "Anivia",
+        "description": "The Cryophoenix",
+        "release": "2009",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 7,
+        "name": "Annie",
+        "description": "The Dark Child",
+        "release": "2009",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 8,
+        "name": "Aphelios",
+        "description": "The Weapon of the Faithful",
+        "release": "2019",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 9,
+        "name": "Ashe",
+        "description": "The Frost Archer",
+        "release": "2009",
+        "classes": [
+            "Marksman",
+            "Support"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 10,
+        "name": "Aurelion Sol",
+        "description": "The Star Forger",
+        "release": "2016",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 11,
+        "name": "Azir",
+        "description": "The Emperor of the Sands",
+        "release": "2014",
+        "classes": [
+            "Mage",
+            "Marksman"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 12,
+        "name": "Bard",
+        "description": "The Wandering Caretaker",
+        "release": "2015",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 13,
+        "name": "Bel'Veth",
+        "description": "The Empress of the Void",
+        "release": "2022",
+        "classes": [
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "6300"
+    },
+    {
+        "id": 14,
+        "name": "Blitzcrank",
+        "description": "The Great Steam Golem",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 15,
+        "name": "Brand",
+        "description": "The Burning Vengeance",
+        "release": "2011",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 16,
+        "name": "Braum",
+        "description": "The Heart of the Freljord",
+        "release": "2014",
+        "classes": [
+            "Support",
+            "Tank"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 17,
+        "name": "Caitlyn",
+        "description": "The Sheriff of Piltover",
+        "release": "2011",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 18,
+        "name": "Camille",
+        "description": "The Steel Shadow",
+        "release": "2016",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 19,
+        "name": "Cassiopeia",
+        "description": "The Serpent's Embrace",
+        "release": "2010",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle",
+            "Top",
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 20,
+        "name": "Cho'Gath",
+        "description": "The Terror of the Void",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 21,
+        "name": "Corki",
+        "description": "The Daring Bombardier",
+        "release": "2009",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 22,
+        "name": "Darius",
+        "description": "The Hand of Noxus",
+        "release": "2012",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 23,
+        "name": "Diana",
+        "description": "Scorn of the Moon",
+        "release": "2012",
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 24,
+        "name": "Dr. Mundo",
+        "description": "The Madman of Zaun",
+        "release": "2009",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "resource": "Health costs",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 25,
+        "name": "Draven",
+        "description": "The Glorious Executioner",
+        "release": "2012",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 26,
+        "name": "Ekko",
+        "description": "The Boy Who Shattered Time",
+        "release": "2015",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 27,
+        "name": "Elise",
+        "description": "The Spider Queen",
+        "release": "2012",
+        "classes": [
+            "Mage",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 28,
+        "name": "Evelynn",
+        "description": "Agony's Embrace",
+        "release": "2009",
+        "classes": [
+            "Assassin",
+            "Mage"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 29,
+        "name": "Ezreal",
+        "description": "The Prodigal Explorer",
+        "release": "2010",
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 30,
+        "name": "Fiddlesticks",
+        "description": "The Ancient Fear",
+        "release": "2009",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 31,
+        "name": "Fiora",
+        "description": "The Grand Duelist",
+        "release": "2012",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 32,
+        "name": "Fizz",
+        "description": "The Tidal Trickster",
+        "release": "2011",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 33,
+        "name": "Galio",
+        "description": "The Colossus",
+        "release": "2010",
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 34,
+        "name": "Gangplank",
+        "description": "The Saltwater Scourge",
+        "release": "2009",
+        "classes": [
+            "Fighter"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 35,
+        "name": "Garen",
+        "description": "The Might of Demacia",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 36,
+        "name": "Gnar",
+        "description": "The Missing Link",
+        "release": "2014",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Rage",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 37,
+        "name": "Gragas",
+        "description": "The Rabble Rouser",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 38,
+        "name": "Graves",
+        "description": "The Outlaw",
+        "release": "2011",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 39,
+        "name": "Gwen",
+        "description": "The Hallowed Seamstress",
+        "release": "2021",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 40,
+        "name": "Hecarim",
+        "description": "The Shadow of War",
+        "release": "2012",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Jungle",
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 41,
+        "name": "Heimerdinger",
+        "description": "The Revered Inventor",
+        "release": "2009",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Middle",
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 42,
+        "name": "Illaoi",
+        "description": "The Kraken Priestess",
+        "release": "2015",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 43,
+        "name": "Irelia",
+        "description": "The Blade Dancer",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 44,
+        "name": "Ivern",
+        "description": "The Green Father",
+        "release": "2016",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 45,
+        "name": "Janna",
+        "description": "The Storm's Fury",
+        "release": "2009",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 46,
+        "name": "Jarvan IV",
+        "description": "The Exemplar of Demacia",
+        "release": "2011",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 47,
+        "name": "Jax",
+        "description": "Grandmaster at Arms",
+        "release": "2009",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 48,
+        "name": "Jayce",
+        "description": "The Defender of Tomorrow",
+        "release": "2012",
+        "classes": [
+            "Fighter",
+            "Marksman"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 49,
+        "name": "Jhin",
+        "description": "The Virtuoso",
+        "release": "2016",
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4444"
+    },
+    {
+        "id": 50,
+        "name": "Jinx",
+        "description": "The Loose Cannon",
+        "release": "2013",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 51,
+        "name": "K'Sante",
+        "description": "The Pride of Nazumah",
+        "release": "2022",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "6300"
+    },
+    {
+        "id": 52,
+        "name": "Kai'Sa",
+        "description": "Daughter of the Void",
+        "release": "2018",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 53,
+        "name": "Kalista",
+        "description": "The Spear of Vengeance",
+        "release": "2014",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 54,
+        "name": "Karma",
+        "description": "The Enlightened One",
+        "release": "2011",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Support",
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 55,
+        "name": "Karthus",
+        "description": "The Deathsinger",
+        "release": "2009",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 56,
+        "name": "Kassadin",
+        "description": "The Void Walker",
+        "release": "2009",
+        "classes": [
+            "Assassin",
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 57,
+        "name": "Katarina",
+        "description": "The Sinister Blade",
+        "release": "2009",
+        "classes": [
+            "Assassin",
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 58,
+        "name": "Kayle",
+        "description": "The Righteous",
+        "release": "2009",
+        "classes": [
+            "Fighter",
+            "Support"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 59,
+        "name": "Kayn",
+        "description": "The Shadow Reaper",
+        "release": "2017",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 60,
+        "name": "Kennen",
+        "description": "The Heart of the Tempest",
+        "release": "2010",
+        "classes": [
+            "Mage",
+            "Marksman"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Energy",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 61,
+        "name": "Kha'Zix",
+        "description": "The Voidreaver",
+        "release": "2012",
+        "classes": [
+            "Assassin"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 62,
+        "name": "Kindred",
+        "description": "The Eternal Hunters",
+        "release": "2015",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 63,
+        "name": "Kled &amp; Skaarl",
+        "description": "The Cantankerous Cavaliers",
+        "release": "2016",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "resource": "Courage",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "6300"
+    },
+    {
+        "id": 64,
+        "name": "Kog'Maw",
+        "description": "The Mouth of the Abyss",
+        "release": "2010",
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 65,
+        "name": "LeBlanc",
+        "description": "The Deceiver",
+        "release": "2010",
+        "classes": [
+            "Assassin",
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 66,
+        "name": "Lee Sin",
+        "description": "The Blind Monk",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 67,
+        "name": "Leona",
+        "description": "The Radiant Dawn",
+        "release": "2011",
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 68,
+        "name": "Lillia",
+        "description": "The Bashful Bloom",
+        "release": "2020",
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "positions": [
+            "Jungle",
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 69,
+        "name": "Lissandra",
+        "description": "The Ice Witch",
+        "release": "2013",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 70,
+        "name": "Lucian",
+        "description": "The Purifier",
+        "release": "2013",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom",
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 71,
+        "name": "Lulu",
+        "description": "The Fae Sorceress",
+        "release": "2012",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 72,
+        "name": "Lux",
+        "description": "The Lady of Luminosity",
+        "release": "2010",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 73,
+        "name": "Malphite",
+        "description": "Shard of the Monolith",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Top",
+            "Support",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 74,
+        "name": "Malzahar",
+        "description": "The Prophet of the Void",
+        "release": "2010",
+        "classes": [
+            "Mage",
+            "Assassin"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 75,
+        "name": "Maokai",
+        "description": "The Twisted Treant",
+        "release": "2011",
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "positions": [
+            "Top",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 76,
+        "name": "Master Yi",
+        "description": "The Wuju Bladesman",
+        "release": "2009",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 77,
+        "name": "Milio",
+        "description": "The Gentle Flame",
+        "release": "2023",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "6300"
+    },
+    {
+        "id": 78,
+        "name": "Miss Fortune",
+        "description": "The Bounty Hunter",
+        "release": "2010",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 79,
+        "name": "Mordekaiser",
+        "description": "The Iron Revenant",
+        "release": "2010",
+        "classes": [
+            "Fighter"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Shield",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 80,
+        "name": "Morgana",
+        "description": "The Fallen",
+        "release": "2009",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 81,
+        "name": "Naafiri",
+        "description": "The Hound of a Hundred Bites",
+        "release": "2023",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "7800"
+    },
+    {
+        "id": 82,
+        "name": "Nami",
+        "description": "The Tidecaller",
+        "release": "2012",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 83,
+        "name": "Nasus",
+        "description": "The Curator of the Sands",
+        "release": "2009",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 84,
+        "name": "Nautilus",
+        "description": "The Titan of the Depths",
+        "release": "2012",
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 85,
+        "name": "Neeko",
+        "description": "The Curious Chameleon",
+        "release": "2018",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 86,
+        "name": "Nidalee",
+        "description": "The Bestial Huntress",
+        "release": "2009",
+        "classes": [
+            "Assassin",
+            "Mage"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 87,
+        "name": "Nilah",
+        "description": "The Joy Unbound",
+        "release": "2022",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "6300"
+    },
+    {
+        "id": 88,
+        "name": "Nocturne",
+        "description": "The Eternal Nightmare",
+        "release": "2011",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle",
+            "Top",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 89,
+        "name": "Nunu &amp; Willump",
+        "description": "The Boy and His Yeti",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 90,
+        "name": "Olaf",
+        "description": "The Berserker",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Jungle",
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 91,
+        "name": "Orianna",
+        "description": "The Lady of Clockwork",
+        "release": "2011",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 92,
+        "name": "Ornn",
+        "description": "The Fire below the Mountain",
+        "release": "2017",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 93,
+        "name": "Pantheon",
+        "description": "The Unbreakable Spear",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Middle",
+            "Support",
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 94,
+        "name": "Poppy",
+        "description": "Keeper of the Hammer",
+        "release": "2010",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Top",
+            "Jungle",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 95,
+        "name": "Pyke",
+        "description": "The Bloodharbor Ripper",
+        "release": "2018",
+        "classes": [
+            "Support",
+            "Assassin"
+        ],
+        "positions": [
+            "Support",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 96,
+        "name": "Qiyana",
+        "description": "Empress of the Elements",
+        "release": "2019",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 97,
+        "name": "Quinn",
+        "description": "Demacia's Wings",
+        "release": "2013",
+        "classes": [
+            "Marksman",
+            "Assassin"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 98,
+        "name": "Rakan",
+        "description": "The Charmer",
+        "release": "2017",
+        "classes": [
+            "Support"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 99,
+        "name": "Rammus",
+        "description": "The Armordillo",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 100,
+        "name": "Rek'Sai",
+        "description": "The Void Burrower",
+        "release": "2014",
+        "classes": [
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Rage",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 101,
+        "name": "Rell",
+        "description": "The Iron Maiden",
+        "release": "2020",
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 102,
+        "name": "Renata Glasc",
+        "description": "The Chem-Baroness",
+        "release": "2022",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "6300"
+    },
+    {
+        "id": 103,
+        "name": "Renekton",
+        "description": "The Butcher of the Sands",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Fury",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 104,
+        "name": "Rengar",
+        "description": "The Pridestalker",
+        "release": "2012",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle",
+            "Top"
+        ],
+        "resource": "Ferocity",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 105,
+        "name": "Riven",
+        "description": "The Exile",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 106,
+        "name": "Rumble",
+        "description": "The Mechanized Menace",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Heat",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 107,
+        "name": "Ryze",
+        "description": "The Rune Mage",
+        "release": "2009",
+        "classes": [
+            "Mage",
+            "Fighter"
+        ],
+        "positions": [
+            "Middle",
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 108,
+        "name": "Samira",
+        "description": "The Desert Rose",
+        "release": "2020",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 109,
+        "name": "Sejuani",
+        "description": "Fury of the North",
+        "release": "2012",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 110,
+        "name": "Senna",
+        "description": "The Redeemer",
+        "release": "2019",
+        "classes": [
+            "Marksman",
+            "Support"
+        ],
+        "positions": [
+            "Support",
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 111,
+        "name": "Seraphine",
+        "description": "The Starry-Eyed Songstress",
+        "release": "2020",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Bottom",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 112,
+        "name": "Sett",
+        "description": "The Boss",
+        "release": "2020",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Jungle",
+            "Support"
+        ],
+        "resource": "Grit",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 113,
+        "name": "Shaco",
+        "description": "The Demon Jester",
+        "release": "2009",
+        "classes": [
+            "Assassin"
+        ],
+        "positions": [
+            "Jungle",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 114,
+        "name": "Shen",
+        "description": "The Eye of Twilight",
+        "release": "2010",
+        "classes": [
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Support"
+        ],
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 115,
+        "name": "Shyvana",
+        "description": "The Half-Dragon",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Fury",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 116,
+        "name": "Singed",
+        "description": "The Mad Chemist",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 117,
+        "name": "Sion",
+        "description": "The Undead Juggernaut",
+        "release": "2009",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 118,
+        "name": "Sivir",
+        "description": "The Battle Mistress",
+        "release": "2009",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 119,
+        "name": "Skarner",
+        "description": "The Crystal Vanguard",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 120,
+        "name": "Sona",
+        "description": "Maven of the Strings",
+        "release": "2010",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 121,
+        "name": "Soraka",
+        "description": "The Starchild",
+        "release": "2009",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 122,
+        "name": "Swain",
+        "description": "The Noxian Grand General",
+        "release": "2010",
+        "classes": [
+            "Mage",
+            "Fighter"
+        ],
+        "positions": [
+            "Top",
+            "Middle",
+            "Support",
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 123,
+        "name": "Sylas",
+        "description": "The Unshackled",
+        "release": "2019",
+        "classes": [
+            "Mage",
+            "Assassin"
+        ],
+        "positions": [
+            "Middle",
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 124,
+        "name": "Syndra",
+        "description": "The Dark Sovereign",
+        "release": "2012",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 125,
+        "name": "Tahm Kench",
+        "description": "The River King",
+        "release": "2015",
+        "classes": [
+            "Support",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Bottom",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 126,
+        "name": "Taliyah",
+        "description": "The Stoneweaver",
+        "release": "2016",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 127,
+        "name": "Talon",
+        "description": "The Blade's Shadow",
+        "release": "2011",
+        "classes": [
+            "Assassin"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 128,
+        "name": "Taric",
+        "description": "The Shield of Valoran",
+        "release": "2009",
+        "classes": [
+            "Support",
+            "Fighter"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 129,
+        "name": "Teemo",
+        "description": "The Swift Scout",
+        "release": "2009",
+        "classes": [
+            "Marksman",
+            "Assassin"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 130,
+        "name": "Thresh",
+        "description": "The Chain Warden",
+        "release": "2013",
+        "classes": [
+            "Support",
+            "Fighter"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 131,
+        "name": "Tristana",
+        "description": "The Yordle Gunner",
+        "release": "2009",
+        "classes": [
+            "Marksman",
+            "Assassin"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 132,
+        "name": "Trundle",
+        "description": "The Troll King",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 133,
+        "name": "Tryndamere",
+        "description": "The Barbarian King",
+        "release": "2009",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Fury",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 134,
+        "name": "Twisted Fate",
+        "description": "The Card Master",
+        "release": "2009",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 135,
+        "name": "Twitch",
+        "description": "The Plague Rat",
+        "release": "2009",
+        "classes": [
+            "Marksman",
+            "Assassin"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 136,
+        "name": "Udyr",
+        "description": "The Spirit Walker",
+        "release": "2009",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 137,
+        "name": "Urgot",
+        "description": "The Dreadnought",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 138,
+        "name": "Varus",
+        "description": "The Arrow of Retribution",
+        "release": "2012",
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 139,
+        "name": "Vayne",
+        "description": "The Night Hunter",
+        "release": "2011",
+        "classes": [
+            "Marksman",
+            "Assassin"
+        ],
+        "positions": [
+            "Top",
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 140,
+        "name": "Veigar",
+        "description": "The Tiny Master of Evil",
+        "release": "2009",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 141,
+        "name": "Vel'Koz",
+        "description": "The Eye of the Void",
+        "release": "2014",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3141"
+    },
+    {
+        "id": 142,
+        "name": "Vex",
+        "description": "The Gloomist",
+        "release": "2021",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 143,
+        "name": "Vi",
+        "description": "The Piltover Enforcer",
+        "release": "2012",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 144,
+        "name": "Viego",
+        "description": "The Ruined King",
+        "release": "2021",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 145,
+        "name": "Viktor",
+        "description": "The Machine Herald",
+        "release": "2011",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 146,
+        "name": "Vladimir",
+        "description": "The Crimson Reaper",
+        "release": "2010",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Bloodthirst",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    },
+    {
+        "id": 147,
+        "name": "Volibear",
+        "description": "The Relentless Storm",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 148,
+        "name": "Warwick",
+        "description": "The Uncaged Wrath of Zaun",
+        "release": "2009",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "450"
+    },
+    {
+        "id": 149,
+        "name": "Wukong",
+        "description": "The Monkey King",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 150,
+        "name": "Xayah",
+        "description": "The Rebel",
+        "release": "2017",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "4800"
+    },
+    {
+        "id": 151,
+        "name": "Xerath",
+        "description": "The Magus Ascendant",
+        "release": "2011",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 152,
+        "name": "Xin Zhao",
+        "description": "The Seneschal of Demacia",
+        "release": "2010",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Jungle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 153,
+        "name": "Yasuo",
+        "description": "The Unforgiven",
+        "release": "2013",
+        "classes": [
+            "Fighter",
+            "Assassin"
+        ],
+        "positions": [
+            "Top",
+            "Middle",
+            "Bottom"
+        ],
+        "resource": "Flow",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 154,
+        "name": "Yone",
+        "description": "The Unforgotten",
+        "release": "2020",
+        "classes": [
+            "Assassin",
+            "Fighter"
+        ],
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "resource": "Manaless",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 155,
+        "name": "Yorick",
+        "description": "Shepherd of Souls",
+        "release": "2011",
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "positions": [
+            "Top"
+        ],
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "3150"
+    },
+    {
+        "id": 156,
+        "name": "Yuumi",
+        "description": "The Magical Cat",
+        "release": "2019",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "450"
+    },
+    {
+        "id": 157,
+        "name": "Zac",
+        "description": "The Secret Weapon",
+        "release": "2013",
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "positions": [
+            "Jungle",
+            "Top",
+            "Support"
+        ],
+        "resource": "Health costs",
+        "rangeType": "Melee",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 158,
+        "name": "Zed",
+        "description": "The Master of Shadows",
+        "release": "2012",
+        "classes": [
+            "Assassin"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "dmgType": "Physical",
+        "price": "1350"
+    },
+    {
+        "id": 159,
+        "name": "Zeri",
+        "description": "The Spark of Zaun",
+        "release": "2022",
+        "classes": [
+            "Marksman"
+        ],
+        "positions": [
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Physical",
+        "price": "6300"
+    },
+    {
+        "id": 160,
+        "name": "Ziggs",
+        "description": "The Hexplosives Expert",
+        "release": "2012",
+        "classes": [
+            "Mage"
+        ],
+        "positions": [
+            "Middle",
+            "Bottom"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 161,
+        "name": "Zilean",
+        "description": "The Chronokeeper",
+        "release": "2009",
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "positions": [
+            "Support",
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "1350"
+    },
+    {
+        "id": 162,
+        "name": "Zoe",
+        "description": "The Aspect of Twilight",
+        "release": "2017",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Middle"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "4800"
+    },
+    {
+        "id": 163,
+        "name": "Zyra",
+        "description": "Rise of the Thorns",
+        "release": "2012",
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "positions": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "dmgType": "Magic",
+        "price": "3150"
+    }
 ]
